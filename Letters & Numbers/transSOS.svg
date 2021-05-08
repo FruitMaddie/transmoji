@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 36 36"
+   version="1.1"
+   id="svg3163"
+   sodipodi:docname="transSOS.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   inkscape:export-filename="C:\Users\tacos\Documents\random things\twemoji\Letters &amp; Numbers\transSOS.png"
+   inkscape:export-xdpi="581.33002"
+   inkscape:export-ydpi="581.33002">
+  <metadata
+     id="metadata3169">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3167">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4427"
+       id="pattern56"
+       patternTransform="scale(1,1.0758846)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2987"
+       id="pattern4427"
+       patternTransform="scale(1,1.0758846)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5619"
+       id="pattern2987"
+       patternTransform="scale(1,1.0758846)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern3795"
+       id="pattern5619"
+       patternTransform="scale(1,1.0758846)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern3786"
+       id="pattern3795"
+       patternTransform="scale(1,1.0758846)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="36.061364"
+       height="33.545458"
+       id="pattern3786">
+      <rect
+         style="fill:#55cdfc;fill-opacity:1"
+         id="rect3737"
+         width="36.061363"
+         height="6.7090917"
+         x="0"
+         y="0" />
+      <rect
+         style="fill:#f7a8b8;fill-opacity:1"
+         id="rect3737-1"
+         width="36.061363"
+         height="6.7090917"
+         x="4.7132923e-07"
+         y="6.7090917" />
+      <rect
+         style="fill:#efefef;fill-opacity:1"
+         id="rect3737-7"
+         width="36.061363"
+         height="6.7090917"
+         x="4.7132923e-07"
+         y="13.418183" />
+      <rect
+         style="fill:#f7a8b8;fill-opacity:1"
+         id="rect3737-2"
+         width="36.061363"
+         height="6.7090917"
+         x="4.7132923e-07"
+         y="20.127275" />
+      <rect
+         style="fill:#55cdfc;fill-opacity:1"
+         id="rect3737-28"
+         width="36.061363"
+         height="6.7090917"
+         x="4.7132923e-07"
+         y="26.836367" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="36.061363"
+       height="36.091045"
+       patternTransform="translate(0.01982609,-0.05286927)"
+       id="pattern3202">
+      <rect
+         style="fill:url(#pattern56);stroke:none;stroke-width:1.03725"
+         width="36.061363"
+         height="36.091045"
+         x="0"
+         y="0"
+         id="rect54" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1837"
+     inkscape:window-height="1051"
+     id="namedview3165"
+     showgrid="false"
+     inkscape:zoom="17.284832"
+     inkscape:cx="16.119094"
+     inkscape:cy="18.8642"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3163" />
+  <path
+     fill="#DD2E44"
+     d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"
+     id="path3159"
+     style="fill:url(#pattern3202);fill-opacity:1.0" />
+  <path
+     d="M9.762 12.518c0 .78-.52 1.48-1.34 1.48-.82 0-1.46-.6-2.661-.6-.86 0-1.641.46-1.641 1.3 0 2.06 6.682.74 6.682 5.901 0 2.861-2.361 4.642-5.121 4.642-1.541 0-4.861-.36-4.861-2.24 0-.78.521-1.421 1.34-1.421.94 0 2.061.78 3.361.78 1.32 0 2.041-.74 2.041-1.721 0-2.36-6.682-.94-6.682-5.581 0-2.801 2.301-4.541 4.961-4.541 1.121 0 3.921.42 3.921 2.001zm1.358 5.361c0-4.161 2.801-7.362 6.882-7.362 4.02 0 6.881 3.3 6.881 7.362 0 4.141-2.78 7.361-6.881 7.361-4.061 0-6.882-3.22-6.882-7.361zm10.643 0c0-2.421-1.261-4.602-3.761-4.602-2.501 0-3.761 2.181-3.761 4.602 0 2.44 1.22 4.601 3.761 4.601 2.541-.001 3.761-2.161 3.761-4.601zm12.38-5.361c0 .78-.521 1.48-1.342 1.48s-1.459-.6-2.66-.6c-.859 0-1.641.46-1.641 1.3 0 2.06 6.682.74 6.682 5.901 0 2.861-2.359 4.642-5.121 4.642-1.539 0-4.861-.36-4.861-2.24 0-.78.521-1.421 1.342-1.421.939 0 2.061.78 3.359.78 1.32 0 2.041-.74 2.041-1.721 0-2.36-6.682-.94-6.682-5.581 0-2.801 2.301-4.541 4.961-4.541 1.121 0 3.922.42 3.922 2.001z"
+     fill="#FFF"
+     id="path3161"
+     style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke:#f7a8b8;stroke-opacity:1" />
+</svg>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 36 36"
+   version="1.1"
+   id="svg4405"
+   sodipodi:docname="transNG.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   inkscape:export-filename="C:\Users\tacos\Documents\random things\twemoji\Letters &amp; Numbers\transNG.png"
+   inkscape:export-xdpi="581.33002"
+   inkscape:export-ydpi="581.33002">
+  <metadata
+     id="metadata4411">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4409">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4427"
+       id="pattern56"
+       patternTransform="scale(1,1.0758846)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2987"
+       id="pattern4427"
+       patternTransform="scale(1,1.0758846)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5619"
+       id="pattern2987"
+       patternTransform="scale(1,1.0758846)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern3795"
+       id="pattern5619"
+       patternTransform="scale(1,1.0758846)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern3786"
+       id="pattern3795"
+       patternTransform="scale(1,1.0758846)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="36.061364"
+       height="33.545458"
+       id="pattern3786">
+      <rect
+         style="fill:#55cdfc;fill-opacity:1"
+         id="rect3737"
+         width="36.061363"
+         height="6.7090917"
+         x="0"
+         y="0" />
+      <rect
+         style="fill:#f7a8b8;fill-opacity:1"
+         id="rect3737-1"
+         width="36.061363"
+         height="6.7090917"
+         x="4.7132923e-07"
+         y="6.7090917" />
+      <rect
+         style="fill:#efefef;fill-opacity:1"
+         id="rect3737-7"
+         width="36.061363"
+         height="6.7090917"
+         x="4.7132923e-07"
+         y="13.418183" />
+      <rect
+         style="fill:#f7a8b8;fill-opacity:1"
+         id="rect3737-2"
+         width="36.061363"
+         height="6.7090917"
+         x="4.7132923e-07"
+         y="20.127275" />
+      <rect
+         style="fill:#55cdfc;fill-opacity:1"
+         id="rect3737-28"
+         width="36.061363"
+         height="6.7090917"
+         x="4.7132923e-07"
+         y="26.836367" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="36.061363"
+       height="36.091045"
+       patternTransform="translate(-0.03802818,0.06283935)"
+       id="pattern4444">
+      <rect
+         style="fill:url(#pattern56);stroke:none;stroke-width:1.03725"
+         width="36.061363"
+         height="36.091045"
+         x="0"
+         y="0"
+         id="rect54" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1837"
+     inkscape:window-height="1051"
+     id="namedview4407"
+     showgrid="false"
+     inkscape:zoom="17.284832"
+     inkscape:cx="16.915514"
+     inkscape:cy="17.1358"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4405" />
+  <path
+     fill="#3B88C3"
+     d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"
+     id="path4401"
+     style="fill:url(#pattern4444);fill-opacity:1.0" />
+  <path
+     d="M2.508 10.639c0-1.2.768-1.872 1.8-1.872.456 0 1.2.36 1.512.792l7.608 10.153h.048v-9.073c0-1.2.768-1.872 1.8-1.872s1.8.672 1.8 1.872v13.633c0 1.2-.768 1.872-1.8 1.872-.456 0-1.176-.359-1.512-.792L6.157 15.319h-.048v8.953c0 1.2-.768 1.872-1.8 1.872s-1.8-.672-1.8-1.872V10.639zm29.402 5.232c1.512 0 2.111.768 2.111 2.305 0 4.632-3.024 8.112-7.824 8.112-4.873 0-8.257-3.864-8.257-8.833 0-4.992 3.36-8.833 8.257-8.833 3.623 0 6.6 1.704 6.6 3.384 0 1.032-.647 1.68-1.488 1.68-1.631 0-1.967-1.752-5.111-1.752-3 0-4.513 2.616-4.513 5.52 0 2.929 1.464 5.521 4.513 5.521 1.896 0 4.08-1.056 4.08-3.792H27.83c-.984 0-1.682-.696-1.682-1.681 0-1.008.77-1.632 1.682-1.632h4.08z"
+     fill="#FFF"
+     id="path4403"
+     style="stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke:#f7a8b8;stroke-opacity:1" />
+</svg>
