@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 36 36"
+   version="1.1"
+   id="svg2877"
+   sodipodi:docname="transSandwich.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   inkscape:export-filename="C:\Users\tacos\Documents\random things\twemoji\transmoji\transmoji\Food\transSandwich.png"
+   inkscape:export-xdpi="581.33331"
+   inkscape:export-ydpi="581.33331">
+  <metadata
+     id="metadata2883">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2881">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern3526"
+       id="pattern3594"
+       patternTransform="matrix(0.44297024,-0.25574896,0.26898137,0.46588942,23.025967,7.8681699)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern3526"
+       id="pattern3578"
+       patternTransform="matrix(0.69219343,-0.39963807,0.34277743,0.59370793,10.370364,3.7026682)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern3571"
+       id="pattern3576"
+       patternTransform="matrix(0.69288929,-0.4000398,0.34208158,0.59250267,10.3559,3.7042725)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4393-9"
+       id="pattern3569"
+       patternTransform="translate(0,35.999999)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4438"
+       id="pattern3524"
+       patternTransform="translate(36.000003,35.999999)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="35.999998"
+       height="36.000003"
+       patternTransform="translate(0,35.999999)"
+       id="pattern4393">
+      <rect
+         style="fill:#55cdfc;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-4"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="0" />
+      <rect
+         style="fill:#f7a8b8;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-5-0"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="7.1999989" />
+      <rect
+         style="fill:#efefef;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-8-2"
+         width="35.999996"
+         height="7.1999998"
+         x="2.7033288e-06"
+         y="14.399998" />
+      <rect
+         style="fill:#f7a8b8;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-2-4"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="21.6" />
+      <rect
+         style="fill:#55cdfc;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-9-1"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="28.800003" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="35.999999"
+       height="35.999996"
+       patternTransform="translate(36.000003,35.999999)"
+       id="pattern4438">
+      <rect
+         style="fill:#3cb4e3;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-3-1"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="0" />
+      <rect
+         style="fill:#de8f9f;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-5-2-9"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="7.1999989" />
+      <rect
+         style="fill:#d6d6d6;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-8-0-9"
+         width="35.999996"
+         height="7.1999998"
+         x="3.6044385e-06"
+         y="14.399998" />
+      <rect
+         style="fill:#de8f9f;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-2-1-7"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="21.6" />
+      <rect
+         style="fill:#3cb4e3;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-9-5-8"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="28.799995" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="36"
+       height="35.999996"
+       id="pattern3526">
+      <rect
+         style="fill:url(#pattern3524);stroke:none"
+         width="36"
+         height="35.999996"
+         x="0"
+         y="0"
+         id="rect4445" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="35.999998"
+       height="36.000003"
+       patternTransform="translate(0,35.999999)"
+       id="pattern4393-9">
+      <rect
+         style="fill:#55cdfc;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-4-8"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="0" />
+      <rect
+         style="fill:#f7a8b8;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-5-0-1"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="7.1999989" />
+      <rect
+         style="fill:#efefef;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-8-2-8"
+         width="35.999996"
+         height="7.1999998"
+         x="2.7033288e-06"
+         y="14.399998" />
+      <rect
+         style="fill:#f7a8b8;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-2-4-9"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="21.6" />
+      <rect
+         style="fill:#55cdfc;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-9-1-9"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="28.800003" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="35.999996"
+       height="36.000004"
+       id="pattern3571">
+      <rect
+         style="fill:url(#pattern3569);stroke:none"
+         width="35.999996"
+         height="36.000004"
+         x="0"
+         y="0"
+         id="rect4400" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1837"
+     inkscape:window-height="1051"
+     id="namedview2879"
+     showgrid="false"
+     inkscape:zoom="24.444444"
+     inkscape:cx="19.52001"
+     inkscape:cy="18.640777"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2877" />
+  <path
+     fill="#F4900C"
+     d="M35 20.516L1 20l.017 2.625c.017.593.355 1.188 1.08 1.632l6.907 4.228 6.908 4.227c1.526.935 4.145.848 5.525 0 1.383-.845.692-1.267 2.073-2.114 1.381-.844 2.071-.422 3.454-1.266 1.383-.848 6.909-4.227 6.909-4.227.761-.466 1.141-1.077 1.143-1.689l-.016-2.9z"
+     id="path2859"
+     style="fill:#2da5d4;fill-opacity:1" />
+  <path
+     fill="#FFAC33"
+     d="m 33.873,18.721 c 0,0 -30.394,-1.69 -31.776,-0.845 -1.382,0.845 -1.526,2.447 0,3.382 l 6.907,4.228 6.908,4.228 c 1.526,0.935 4.145,0.848 5.525,0 1.383,-0.845 0.692,-1.267 2.073,-2.114 1.381,-0.844 2.071,-0.422 3.454,-1.266 1.383,-0.848 6.908,-4.228 6.908,-4.228 1.526,-0.935 1.527,-2.451 10e-4,-3.385 z"
+     id="path2861"
+     style="fill:url(#pattern3594);fill-opacity:1" />
+  <path
+     fill="#FFD983"
+     d="M10.222 24.642l7.071 4.228s1.414.844 2.828 0c1.197-.717 2.121-2.114 2.121-2.114l-12.02-2.114z"
+     id="path2863"
+     style="fill:#55cdfc;fill-opacity:1" />
+  <path
+     fill="#77B255"
+     d="M33.739 18.565c-1.941-2.589-26.694-4.412-30.577-.767-.784.737-2.265 2.22-.688 4.439.688 1.162 2.116 1.919 2.306 1.56.443-.842 1.327-1.578 2.653-1.507-.075.178.641 3.207.56 3.275-.925.786.997 3.518 3.249 2.063.561 1.108 3.956 3.843 6.299.102.466.844 5.36 2.128 6.719-1.766-.011.067-.008.124-.026.196-.089.35.722.653 1.548.363 1.389-.486 3.395-1.693 3.75-3.018.991-.173 1.734.102 2.306.858.283.374 1.254.464 1.669-.025.732-.859 1.933-3.503.232-5.773z"
+     id="path2865"
+     style="fill:#d28393;fill-opacity:1" />
+  <path
+     fill="#FFCC4D"
+     d="M31 25.041c0 .529-.896.959-2 .959H7c-1.104 0-2-.43-2-.959V18.49h26v6.551z"
+     id="path2867"
+     style="fill:#c8c8c8;fill-opacity:1" />
+  <path
+     fill="#BE1931"
+     d="M33.311 19.987c0 2.768-4.586 5.013-10.242 5.013-5.658 0-10.243-2.245-10.243-5.013 0-2.769 4.585-5.013 10.243-5.013 5.656 0 10.242 2.245 10.242 5.013z"
+     id="path2869"
+     style="fill:#b46575;fill-opacity:1" />
+  <path
+     fill="#F4900C"
+     d="M35 14.516L1 14v2.625h.017c.017.593.355 1.188 1.08 1.632l6.907 4.228 6.908 4.227c1.526.935 4.145.848 5.525 0 1.383-.845.692-1.267 2.073-2.114 1.381-.844 2.071-.422 3.454-1.266 1.383-.848 6.909-4.227 6.909-4.227.761-.466 1.141-1.077 1.143-1.689v-.005L35 14.516z"
+     id="path2871"
+     style="fill:#2da5d4;fill-opacity:1" />
+  <path
+     fill="#FFAC33"
+     d="M 33.873,12.721 20.058,4.267 c -1.526,-0.934 -4,-0.934 -5.527,0 L 7.623,8.495 C 6.242,9.34 6.932,9.763 5.551,10.608 4.17,11.453 3.479,11.03 2.097,11.876 c -1.382,0.845 -1.526,2.447 0,3.382 l 13.815,8.455 c 1.526,0.935 4.145,0.848 5.525,0 1.383,-0.845 0.692,-1.267 2.073,-2.114 1.381,-0.844 2.071,-0.422 3.454,-1.266 1.383,-0.848 6.908,-4.228 6.908,-4.228 1.526,-0.934 1.527,-2.45 10e-4,-3.384 z"
+     id="path2873"
+     style="fill:url(#pattern3578);fill-opacity:1" />
+  <path
+     fill="#FFD983"
+     d="M 32.85,13.568 18.707,5.113 c 0,0 -1.507,-0.791 -2.829,0 L 8.916,9.275 C 7.719,9.99 7.883,10.738 6.686,11.453 5.49,12.169 4.347,12.006 3.15,12.721 c -1.414,0.847 0,1.693 0,1.693 l 14.142,8.455 c 0,0 1.414,0.844 2.828,0 1.197,-0.717 0.926,-1.397 2.121,-2.114 1.197,-0.717 2.447,-0.619 3.644,-1.334 1.197,-0.714 6.963,-4.163 6.963,-4.163 0,0 1.323,-0.901 0.002,-1.69 z"
+     id="path2875"
+     style="fill:url(#pattern3576);fill-opacity:1" />
+</svg>

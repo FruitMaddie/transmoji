@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 36 36"
+   version="1.1"
+   id="svg7728"
+   sodipodi:docname="transOrange.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   inkscape:export-filename="C:\Users\tacos\Documents\random things\twemoji\transmoji\transmoji\Food\transOrange.png"
+   inkscape:export-xdpi="581.13"
+   inkscape:export-ydpi="581.13">
+  <metadata
+     id="metadata7734">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7732">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern8322"
+       id="pattern8904"
+       patternTransform="matrix(1.0594613,0,0,1.0578542,0.46283354,0.4628335)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4393"
+       id="pattern8318"
+       patternTransform="translate(0,35.999999)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="35.999998"
+       height="36.000003"
+       patternTransform="translate(0,35.999999)"
+       id="pattern4393">
+      <rect
+         style="fill:#55cdfc;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-4"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="0" />
+      <rect
+         style="fill:#f7a8b8;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-5-0"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="7.1999989" />
+      <rect
+         style="fill:#efefef;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-8-2"
+         width="35.999996"
+         height="7.1999998"
+         x="2.7033288e-06"
+         y="14.399998" />
+      <rect
+         style="fill:#f7a8b8;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-2-4"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="21.6" />
+      <rect
+         style="fill:#55cdfc;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-9-1"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="28.800003" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="35.999996"
+       height="36.000004"
+       id="pattern8322">
+      <rect
+         style="fill:url(#pattern8318);stroke:none"
+         width="35.999996"
+         height="36.000004"
+         x="0"
+         y="0"
+         id="rect4400" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1837"
+     inkscape:window-height="1051"
+     id="namedview7730"
+     showgrid="false"
+     inkscape:zoom="17.284832"
+     inkscape:cx="6.2527217"
+     inkscape:cy="20.97943"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7728"
+     inkscape:document-rotation="0" />
+  <path
+     fill="#F4900C"
+     d="M 3,19.5 C 3,10.388 10.387,3 19.499,3 c 9.113,0 16.5,7.387 16.5,16.5 0,9.113 -7.387,16.5 -16.5,16.5 C 10.387,36 3,28.613 3,19.5 Z"
+     id="path7722"
+     style="fill:url(#pattern8904);fill-opacity:1" />
+  <path
+     fill="#662113"
+     d="M11.414 7.585c-.267-.267-.797-.197-1.355.12-3.3-2.732-8.653-3.652-8.895-3.692-.546-.089-1.059.277-1.15.821-.091.544.276 1.06.821 1.151.053.009 4.934.854 7.821 3.16-.275.525-.324 1.015-.07 1.268.39.391 1.34.074 2.121-.707.781-.78 1.097-1.73.707-2.121z"
+     id="path7724"
+     style="fill:#8e5870;fill-opacity:1" />
+  <path
+     fill="#5C913B"
+     d="M21 1s-3.106 4.318-7.021 5.273C11 7 7.041 7.07 6.646 6.15c-.394-.919 1.572-3.937 4.969-5.393C15.012-.698 21 1 21 1z"
+     id="path7726"
+     style="fill:#3d96b7;fill-opacity:1" />
+</svg>

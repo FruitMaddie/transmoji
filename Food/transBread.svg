@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 36 36"
+   version="1.1"
+   id="svg935"
+   sodipodi:docname="transBread.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   inkscape:export-filename="C:\Users\tacos\Documents\random things\twemoji\transmoji\transmoji\Food\transBread.png"
+   inkscape:export-xdpi="581.33331"
+   inkscape:export-ydpi="581.33331">
+  <metadata
+     id="metadata941">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs939">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2756"
+       id="pattern2826"
+       patternTransform="translate(1.2397723e-6)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern2630"
+       id="pattern2677"
+       patternTransform="translate(-1.8022461e-6)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4393"
+       id="pattern2551" />
+    <linearGradient
+       id="linearGradient2509"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#d99e82;stop-opacity:1;"
+         offset="0"
+         id="stop2507" />
+    </linearGradient>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4438"
+       id="pattern2500"
+       patternTransform="translate(36.000003,35.999999)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="35.999999"
+       height="35.999996"
+       patternTransform="translate(36.000003,35.999999)"
+       id="pattern4438">
+      <rect
+         style="fill:#3cb4e3;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-3-1"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="0" />
+      <rect
+         style="fill:#de8f9f;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-5-2-9"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="7.1999989" />
+      <rect
+         style="fill:#d6d6d6;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-8-0-9"
+         width="35.999996"
+         height="7.1999998"
+         x="3.6044385e-06"
+         y="14.399998" />
+      <rect
+         style="fill:#de8f9f;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-2-1-7"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="21.6" />
+      <rect
+         style="fill:#3cb4e3;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-9-5-8"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="28.799995" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="36"
+       height="35.999996"
+       id="pattern2502">
+      <rect
+         style="fill:url(#pattern2500);stroke:none"
+         width="36"
+         height="35.999996"
+         x="0"
+         y="0"
+         id="rect4445" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="35.999998"
+       height="36.000003"
+       patternTransform="translate(0,35.999999)"
+       id="pattern4393">
+      <rect
+         style="fill:#55cdfc;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-4"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="0" />
+      <rect
+         style="fill:#f7a8b8;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-5-0"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="7.1999989" />
+      <rect
+         style="fill:#efefef;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-8-2"
+         width="35.999996"
+         height="7.1999998"
+         x="2.7033288e-06"
+         y="14.399998" />
+      <rect
+         style="fill:#f7a8b8;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-2-4"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="21.6" />
+      <rect
+         style="fill:#55cdfc;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-9-1"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="28.800003" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="35.999996"
+       height="36.000004"
+       id="pattern2553">
+      <rect
+         style="fill:url(#pattern2551);stroke:none"
+         width="35.999996"
+         height="36.000004"
+         x="0"
+         y="0"
+         id="rect4400" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="35.999995"
+       height="36.000003"
+       patternTransform="translate(71.999998,35.999999)"
+       id="pattern2630">
+      <rect
+         style="fill:#28a0cf;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-3-9-5"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="0" />
+      <rect
+         style="fill:#ca7b8b;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-5-2-6-3"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="7.2000027" />
+      <rect
+         style="fill:#c2c2c2;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-8-0-2-1"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="14.400002" />
+      <rect
+         style="fill:#ca7b8b;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-2-1-1-8"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="21.600004" />
+      <rect
+         style="fill:#28a0cf;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-9-5-1-0"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="28.800003" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="35.999996"
+       height="36.000004"
+       id="pattern2679">
+      <rect
+         style="fill:url(#pattern2677);stroke:none"
+         width="35.999996"
+         height="36.000004"
+         x="0"
+         y="0"
+         id="rect2637" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="35.999999"
+       height="36"
+       patternTransform="translate(-35.999995,36.000003)"
+       id="pattern2756">
+      <rect
+         style="fill:#64dcff;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-25-8"
+         width="35.999996"
+         height="7.1999998"
+         x="3.6044385e-06"
+         y="0" />
+      <rect
+         style="fill:#ffb9c8;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-5-4-8"
+         width="35.999996"
+         height="7.1999998"
+         x="3.6044385e-06"
+         y="7.1999989" />
+      <rect
+         style="fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-8-5-1"
+         width="35.999996"
+         height="7.1999998"
+         x="3.6044385e-06"
+         y="14.400002" />
+      <rect
+         style="fill:#ffb9c8;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-2-5-5"
+         width="35.999996"
+         height="7.1999998"
+         x="3.6044385e-06"
+         y="21.6" />
+      <rect
+         style="fill:#64dcff;fill-opacity:1;stroke:none;stroke-width:0.839365"
+         id="rect4255-9-8-1"
+         width="35.999996"
+         height="7.1999998"
+         x="0"
+         y="28.799999" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="36"
+       height="36"
+       id="pattern2828">
+      <rect
+         style="fill:url(#pattern2826);stroke:none"
+         width="36"
+         height="36"
+         x="0"
+         y="0"
+         id="rect2763" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1837"
+     inkscape:window-height="1051"
+     id="namedview937"
+     showgrid="false"
+     inkscape:zoom="8.6424162"
+     inkscape:cx="-21.460608"
+     inkscape:cy="15.745945"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg935" />
+  <path
+     fill="#D99E82"
+     d="M36 13.5c0-4.558-4.435-8.267-10-8.479V5H10v.021C4.435 5.233 0 8.942 0 13.5c0 1.861.747 3.576 2 4.976V31c0 2.209 1.791 4 4 4h24c2.209 0 4-1.791 4-4V18.476c1.253-1.4 2-3.115 2-4.976z"
+     id="path929"
+     style="fill-opacity:1.0;fill:url(#pattern2502)" />
+  <path
+     fill="#CC927A"
+     d="M19 18.476h15v1.5H19z"
+     id="path931"
+     style="fill:#b4b4b4;fill-opacity:1" />
+  <path
+     fill="#FFE8B6"
+     d="M21 13.5c0-3.461-3.538-6.291-8-6.489C12.835 7.004 10.668 7 10.5 7 5.806 7 2 9.91 2 13.5c0 1.595.754 3.053 2 4.184V30c0 1.657 1.343 3 3 3h9c1.657 0 3-1.343 3-3V17.679c1.244-1.131 2-2.586 2-4.179z"
+     id="path933"
+     style="fill:url(#pattern2828);fill-opacity:1.0" />
+</svg>
